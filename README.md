@@ -16,4 +16,8 @@
 
 # Дополнительные материалы
 
-[0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) 
+[0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
+
+# Домашнее задание
+
+[0] [Контест на Torch](https://contest.yandex.ru/contest/59500/enter) \
