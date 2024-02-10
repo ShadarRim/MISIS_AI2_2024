@@ -24,5 +24,5 @@
 # Домашнее задание
 
 [0] [Контест на Torch](https://contest.yandex.ru/contest/59500/enter) \
-[1] [Решить задачу классификации классической нейронной сетью] (https://www.kaggle.com/competitions/hotel-booking-demand-3/overview) \
-[2] [Решить задачу регрессии классической нейронной сетью] (https://www.kaggle.com/competitions/critical-temperature-of-superconductors)
+[1] [Решить задачу классификации классической нейронной сетью](https://www.kaggle.com/competitions/hotel-booking-demand-3/overview) \
+[2] [Решить задачу регрессии классической нейронной сетью](https://www.kaggle.com/competitions/critical-temperature-of-superconductors)
