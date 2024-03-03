@@ -15,7 +15,7 @@
 [2] [Tensor](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/02_%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80%D1%8B_Torch.ipynb) \
 [3] [Создание нейронной сети вручную](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/03_%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8C_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F.ipynb) \
 [4] [Нейронная сеть для классификации](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/04_%D0%9D%D0%A1_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D1%8F.ipynb) \
-[5] [Нейронная сеть для регрессии](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/05_%D0%9D%D0%A1_%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F.ipynb) \
+[5] [Нейронная сеть для регрессии](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/05_%D0%9D%D0%A1_%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F.ipynb) 
 
 ## Свёрточные нейронные сети
 [6] [Свёрточные нейронные сети](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/06_%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pptx) \
@@ -36,5 +36,5 @@
 [1] [Решить задачу классификации классической нейронной сетью](https://www.kaggle.com/competitions/hotel-booking-demand-3/overview) \
 [2] [Решить задачу регрессии классической нейронной сетью](https://www.kaggle.com/competitions/critical-temperature-of-superconductors) \
 [3] [Путём модификации LeNet добиться точности 0.95 при классификации MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/07_MNIST_CNN.ipynb) \
-[4] [Решить задачу классификации бабочек (late submission)](https://www.kaggle.com/competitions/classification-of-butterflies)
+[4] [Решить задачу классификации бабочек (late submission)](https://www.kaggle.com/competitions/classification-of-butterflies) \
 [5] [Набрать не менее 92% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано](https://www.kaggle.com/c/platesv2)
