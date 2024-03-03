@@ -21,12 +21,14 @@
 [6] [Свёрточные нейронные сети](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/06_%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pptx) \
 [7] [Применение свёрточных сетей к MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/07_MNIST_CNN.ipynb) \
 [8] [Основы компьюетрного зрения](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/08_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb) \
-[9] [Методы обучения нейронных сетей](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/09_%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9.ipynb)
+[9] [Методы обучения нейронных сетей](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/09_%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9.ipynb) \
+[10] [Аугментация]()
 
 # Дополнительные материалы
 
 [0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
 [1] [Применение лийной сети к MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a01_Liner_network_MNIST.ipynb)
+[2] [Базовое решение для задачи №5](https://www.kaggle.com/code/yellowduck/baseline-in-pytorch/notebook)
 
 # Домашнее задание
 
@@ -35,3 +37,4 @@
 [2] [Решить задачу регрессии классической нейронной сетью](https://www.kaggle.com/competitions/critical-temperature-of-superconductors) \
 [3] [Путём модификации LeNet добиться точности 0.95 при классификации MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/07_MNIST_CNN.ipynb) \
 [4] [Решить задачу классификации бабочек (late submission)](https://www.kaggle.com/competitions/classification-of-butterflies)
+[5] [Набрать не менее 92% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано](https://www.kaggle.com/c/platesv2)
