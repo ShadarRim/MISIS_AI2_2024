@@ -23,13 +23,18 @@
 [8] [Основы компьюетрного зрения](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/08_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb) \
 [9] [Методы обучения нейронных сетей](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/09_%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B9.ipynb) \
 [10] [Аугментация](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/10_%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE_%D0%B0%D1%83%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8E.ipynb) \
-[11] [Генеративно-состязательные сети](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/11_GAN.ipynb)
+[11] [Генеративно-состязательные сети](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/11_GAN.ipynb) \
+[12] [Решение задач компьютерного зрения с помощью НС](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/12_%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%9A%D0%97.pptx) \
+[13] [Создаём U-net своими руками](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/13_%D0%A1%D0%B5%D0%B3%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_Pytorch_box.ipynb)
+
+## Рекуррентные нейронные сети
 
 # Дополнительные материалы
 
 [0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
 [1] [Применение лийной сети к MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a01_Liner_network_MNIST.ipynb) \
-[2] [Базовое решение для задачи №5](https://www.kaggle.com/code/yellowduck/baseline-in-pytorch/notebook)
+[2] [Базовое решение для задачи №5](https://www.kaggle.com/code/yellowduck/baseline-in-pytorch/notebook) \
+[3] [Генерация кружочков для заданя №8](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a02_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D1%80%D1%83%D0%B6%D0%BE%D1%87%D0%BA%D0%BE%D0%B2.ipynb)
 
 # Домашнее задание
 
@@ -39,5 +44,6 @@
 [3] [Путём модификации LeNet добиться точности 0.95 при классификации MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/07_MNIST_CNN.ipynb) \
 [4] [Решить задачу классификации бабочек (late submission)](https://www.kaggle.com/competitions/classification-of-butterflies) \
 [5] [Набрать не менее 92% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано](https://www.kaggle.com/c/platesv2) \
-[6] [Создать математическую функцию состоящую как минимум из суммы полинома и тригонометрической функции. Научите ваш GAN генерировать такие же данные] \
-[7] [Научите GAN создавать вашу фотографию]
+[6] Создать математическую функцию состоящую как минимум из суммы полинома и тригонометрической функции. Научите ваш GAN генерировать такие же данные \
+[7] Научите GAN создавать вашу фотографию \
+[8] Обучить нейронную сеть сегментировать кружочки. [Код для генерации кружочков и масок.](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a02_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D1%80%D1%83%D0%B6%D0%BE%D1%87%D0%BA%D0%BE%D0%B2.ipynb)
