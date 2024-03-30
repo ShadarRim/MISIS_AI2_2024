@@ -31,6 +31,11 @@
 [14] [RNN](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/14_RNN_Classif.ipynb) \
 [15] [LSTM/GRU](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/15_RNN_Translate_Seq_to_Seq.ipynb)
 
+## Трансформеры
+[16] [Трансформеры](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/16_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D1%8B.pptx) \
+[17] [Трнсформер с нуля](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/17_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F.ipynb) \
+[18] [Решение задачи классификации современной моделью](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/18_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%BE%D0%BC.ipynb)
+
 # Дополнительные материалы
 
 [0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
@@ -50,4 +55,5 @@
 [7] Научите GAN создавать вашу фотографию \
 [8] Обучить нейронную сеть сегментировать кружочки. [Код для генерации кружочков и масок.](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a02_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D1%80%D1%83%D0%B6%D0%BE%D1%87%D0%BA%D0%BE%D0%B2.ipynb) \
 [9] Создать датасет вида: текст - шифрованный цезераем с шагом из таблицы текст. Научить RNN расшфровывать текст. \
-[10] Решить задачу [перевода](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/15_RNN_Translate_Seq_to_Seq.ipynb) с использованием собственного LSTM/GRU слоя. Вариант указан в таблице. 
+[10] Решить задачу [перевода](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/15_RNN_Translate_Seq_to_Seq.ipynb) с использованием собственного LSTM/GRU слоя. Вариант указан в таблице. \
+[11] Решить задачу классификации трансформером по представленному [набору данных](https://www.kaggle.com/datasets/michaelbryantds/78k-music-album-reviews). 
