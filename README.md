@@ -36,6 +36,9 @@
 [17] [Трнсформер с нуля](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/17_%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F.ipynb) \
 [18] [Решение задачи классификации современной моделью](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/18_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%BE%D0%BC.ipynb)
 
+## Коллоквиум
+[19] [Тематический план](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D0%B0.docx)
+
 # Дополнительные материалы
 
 [0] [Градиентный спуск](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/a00_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
