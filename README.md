@@ -37,7 +37,14 @@
 [18] [Решение задачи классификации современной моделью](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/18_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%BE%D0%BC.ipynb)
 
 ## Коллоквиум
-[19] [Тематический план](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D0%B0.docx)
+[--] [Тематический план](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B2%D0%B8%D1%83%D0%BC%D0%B0.docx)
+
+# Модуль №2 
+
+Форма контроля: защита проекта
+
+[19] [Данные](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/19_35000.xlsx) \
+[20] [Способ преобразования данных](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/20_ChemDescr.ipynb)
 
 # Дополнительные материалы
 
