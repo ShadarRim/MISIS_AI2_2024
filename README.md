@@ -43,8 +43,8 @@
 
 Форма контроля: защита проекта
 
-[19] [Данные](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/19_35000.xlsx) \
-[20] [Способ преобразования данных](https://github.com/ShadarRim/PhysTeachers_2_2024/blob/main/20_ChemDescr.ipynb)
+[19] [Данные](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/19_35000.xlsx) \
+[20] [Способ преобразования данных](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/20_ChemDescr.ipynb)
 
 # Дополнительные материалы
 
